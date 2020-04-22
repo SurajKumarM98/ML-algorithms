@@ -1,7 +1,7 @@
 # ML-algorithms
 Set of ML algorithms
 
-**Simple Linear Regression
+**Simple Linear Regression**
 
 Draws a straight line representing the training set(univariate) according to which predictions can be made.
 
@@ -12,12 +12,12 @@ and  **x = data[data.columns[0:1]]** & **y = data[data.columns[-1]]** located in
 
 Ensure that the filetype imported is supported by the pandas package.
 
-**KNN
+**KNN**
 
 Classification algorithm that perdicts the species of a flower based on multiple inputs
 
 
-**The program requires the following packages: 
+**The program requires the following packages:**
 
 	numpy
 	
